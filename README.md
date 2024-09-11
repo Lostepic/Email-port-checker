@@ -55,6 +55,7 @@ The script works on Linux systems with either APT or DNF package managers. It re
 
 ## Example Output
 
+```bash
 Checking Gmail_SMTP on smtp.gmail.com (Port 25) using telnet with a 5-second timeout...
 Gmail_SMTP on smtp.gmail.com: Port 25 is closed or timed out
 Checking Gmail_IMAP on imap.gmail.com (Port 993) using nc with a 5-second timeout...
@@ -72,3 +73,4 @@ POP3 (Port 110): Closed - Port may be blocked by upstream provider
 POP3_SSL (Port 995): Open - Port is not blocked
 ======================================
 Email port check completed.
+```
