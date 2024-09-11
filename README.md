@@ -24,12 +24,12 @@ The script works on Linux systems with either APT or DNF package managers. It re
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/email-port-checker.git
+    git clone https://github.com/Lostepic/Email-port-checker
     ```
    
 2. **Navigate to the Directory**:
     ```bash
-    cd email-port-checker
+    cd Email-port-checker
     ```
 
 3. **Make the Script Executable**:
